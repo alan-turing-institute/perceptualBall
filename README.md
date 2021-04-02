@@ -1,7 +1,7 @@
 # PerceptualBall
 
 This is the code for the paper: 
-[Explaining Classifiers using Adversarial Perturbations on the Perceptual Ball](https://arxiv.org/abs/1912.09405) <br\> by Andrew Elliott, Stephen Law and Chris Russell. 
+[Explaining Classifiers using Adversarial Perturbations on the Perceptual Ball](https://arxiv.org/abs/1912.09405) by Andrew Elliott, Stephen Law and Chris Russell. 
 
 We provide an implementation of the saliency method in `common_code.py` which can be integrated into other pipelines, as well as some additional routines which are useful for plotting etc. We provide an example of this code in `example.py`. 
 
